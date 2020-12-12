@@ -5,6 +5,7 @@ license:             BSD3
 author:              "Alexander Mingoia"
 maintainer:          "alex@alexmingoia.com"
 copyright:           "2020 Alexander Mingoia"
+category:            "Web"
 
 extra-source-files:
 - README.md

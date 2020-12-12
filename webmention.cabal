@@ -4,11 +4,12 @@ cabal-version: 1.12
 --
 -- see: https://github.com/sol/hpack
 --
--- hash: db2099f930e202367bd0863a5e16039c45c79b8c523807fa2faa7c542d39641e
+-- hash: 5f069886609114ef617eea77ef28bc81ee17fa8046e911a4b148c80025b380d1
 
 name:           webmention
 version:        0.1.0.0
 description:    Types and functions for working with [Webmention](https://www.w3.org/TR/webmention), which pass the [webmention.rocks](https://webmention.rocks/) test suite.
+category:       Web
 homepage:       https://github.com/alexmingoia/webmention#readme
 bug-reports:    https://github.com/alexmingoia/webmention/issues
 author:         Alexander Mingoia
