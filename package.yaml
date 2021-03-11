@@ -5,15 +5,12 @@ license:             BSD3
 author:              "Alexander Mingoia"
 maintainer:          "alex@alexmingoia.com"
 copyright:           "2020 Alexander Mingoia"
+synopsis:            Types and functions for working with Webmentions.
 category:            "Web"
 
 extra-source-files:
 - README.md
 - ChangeLog.md
-
-# Metadata used when publishing your package
-# synopsis:            Short description of your package
-# category:            Web
 
 # To avoid duplicated efforts in documentation and dealing with the
 # complications of embedding Haddock markup inside cabal files, it is
